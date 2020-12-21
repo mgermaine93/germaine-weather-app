@@ -1,3 +1,3 @@
 # Weather App Web Server
 
-This is the code Heroku uses to run my Node Weather app.
+A weather app I created using Node.js, Express, Handlebars, Vanilla JavaScript, HTML, and CSS. Check out the live app and read more about it [here](https://germaine-weather-application.herokuapp.com/about).
